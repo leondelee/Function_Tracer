@@ -1,0 +1,5 @@
+2017-10-14 18:29:44 :function"add" is called 1 times which takes 1.505441 seconds.
+2017-10-14 18:52:54 :function"add" is called 1 times which takes 1.502759 seconds.
+2017-10-14 18:52:56 :function"add" is called 1 times which takes 1.515329 seconds.
+2017-10-14 18:53:16 :function"add" is called 1 times which takes 1.5002710000000001 seconds.
+2017-10-14 18:53:38 :function"add" is called 1 times which takes 1.500962 seconds.
